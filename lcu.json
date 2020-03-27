@@ -1,0 +1,20 @@
+{
+	"templates": {
+		"repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+		"scope": "@napkin-ide",
+		"workspace": "lcu-identity"
+	},
+	"config": {
+		"wc": [
+			"wc/lcu-identity.lcu.js"
+		],
+		"solutions": {
+			"platform-usage": {
+				"element": "lcu-identity-platform-usage-element"
+			}
+		},
+		"elements": {},
+		"data-flow": {},
+		"dependencies": {}
+	}
+}
